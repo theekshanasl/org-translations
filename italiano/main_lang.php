@@ -1,0 +1,20 @@
+<?php
+$lang['global_home'] = "Home";
+$lang['global_discover'] = "Scopri";
+$lang['global_store'] = "Store";
+$lang['global_journal'] = "Blog";
+$lang['global_support'] = "Supporto";
+$lang['global_developer'] = "Sviluppatori";
+$lang['global_profile'] = "Profilo";
+$lang['global_settings'] = "Impostazioni";
+$lang['global_logout'] = "Logout";
+$lang['global_copyright'] = "copyright";
+$lang['global_terms'] = "Termini di Utilizzo";
+$lang['global_team'] = "Il Team";
+$lang['global_getinvolved'] = "Get Involved";
+$lang['global_changelang'] = "Cambia la Lingua";
+$lang['global_search'] = "Cerca";
+$lang['global_login'] = "Login";
+$lang['global_register'] = "Registrati";
+$lang['global_save'] = "Salva";
+$lang['global_cancel'] = "Annulla";

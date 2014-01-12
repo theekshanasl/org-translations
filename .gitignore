@@ -1,0 +1,2 @@
+#ignore gettext .mo files
+*.mo
