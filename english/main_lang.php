@@ -83,3 +83,5 @@ $lang['forgot_password_sub']    = 'It happens to the best of us.';
 $lang['forgot_password_req']    = 'Request new password';
 $lang['password_reset']         = "Your password has been reset";
 
+
+$lang['comment_none_found']     = "Sorry, This %s has no comments"; //%s = type. Anwser, Article, Question
