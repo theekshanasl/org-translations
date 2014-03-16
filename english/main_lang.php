@@ -73,7 +73,7 @@ $lang['write_comment']          = 'Write a Comment&#8230;';
 $lang['search_results']         = 'Search Results';
 $lang['error_gohome']           = 'Go to the Home Page';
 $lang['error_404_title']        = 'The page you’re looking for can’t be found';
-$lang['error_404_descr']        = "There isn’t anything located at \"%s\". Check the web address for mispelled words and try again.";
+$lang['error_404_descr']        = "There isn’t anything located at \"%s\". Check the web address for mispelled words and try again."; //%s = page url without domain
 $lang['error_403_title']        = 'You don’t have permission to view this page';
 $lang['error_403_descr']        = 'Access to this page is restricted to authorised users only.';
 $lang['error_500_title']        = 'There was a problem opening the web page';
@@ -84,4 +84,6 @@ $lang['forgot_password_req']    = 'Request new password';
 $lang['password_reset']         = "Your password has been reset";
 
 
-$lang['comment_none_found']     = "Sorry, This %s has no comments"; //%s = type. Anwser, Article, Question
+$lang['comment_none_found']     = "This %s has no comments yet."; //%s = type. Anwser, Article, Question
+$lang['comment_login']     		= "<a href='%s'>Login</a> to place a comment."; //%s = full url to login page
+$lang['comment_banned']    		= "You have been banned, you can not place comments.";
