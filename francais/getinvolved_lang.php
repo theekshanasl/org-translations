@@ -8,7 +8,7 @@ $lang['gi_heading2']                    = "Design";
 $lang['gi_heading3']                    = "Traductions";
 $lang['gi_heading4']                    = "Web";
 
-$lang['gi_sec1para1']                   = "Notre environnement de bureau et toutes ses applications sont dévelopés avec Vala, GTK+, Clutter, Cairo, Granite, et d'autres bibliothèques gratuites. Tout notre code est hébergé sur Launchpad.net, un service gratuit pour les projets libres. Nous recherchons constamment des contributeurs de tous niveaux pour nous aider à éradiquer les bugs et introduire de nouvelles fonctionnalités.";
+$lang['gi_sec1para1']                   = "Notre environnement de bureau et toutes ses applications sont dévelopés avec Vala, GTK+, Clutter, Cairo, Granite, et d'autres bibliothèques libres. Tout notre code est hébergé sur Launchpad.net, un service gratuit pour les projets libres. Nous recherchons constamment des contributeurs de tous niveaux pour nous aider à éradiquer les bugs et introduire de nouvelles fonctionnalités.";
 $lang['gi_sec1link1']                   = "Parcourir le code du Bureau";
 $lang['gi_sec1link2']                   = "Parcourir le code des applications";
 $lang['gi_sec1link3']                   = "Voir les rapports de bug ouverts";
@@ -19,7 +19,7 @@ $lang['gi_sec2subpara1']                = "Partager des maquettes avec notre gro
 $lang['gi_sec2subpara2']                = "Nous utilisons un système sur Launchpad appelé \"Blueprints\" pour créer des explications détaillées des nouvelles fonctionnalités.";
 $lang['gi_sec2subhead1']                = "Design visuel.";
 $lang['gi_sec2subhead2']                = "Design interactif.";
-$lang['gi_sec2link1']                   = "Voir notre group deviantART";
+$lang['gi_sec2link1']                   = "Voir notre groupe deviantART";
 $lang['gi_sec2link2']                   = "Parcourir nos plans";
 
 $lang['gi_sec3para1']                   = "elementary est créé et utilisé par des personnes du monde entier; aidez-nous à rendre meilleure l'expérience de chacun en le traduisant en plus de langues. Launchpad possède un outil intégré nommé Rosetta qui permet la traduction collaborative en ligne.";

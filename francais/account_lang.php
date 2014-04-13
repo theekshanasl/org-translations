@@ -1,14 +1,15 @@
 <?php
 $lang['account_emailaddr'] 		= "Adresse mail";
-$lang['account_showemail'] 		= "Afficher mon adresse mail dans mon profil";
+$lang['account_showemail'] 		= "Afficher mon adresse e-mail dans mon profil";
 $lang['account_firstname'] 		= "Prénom";
 $lang['account_lastname'] 		= "Nom";
+$lang['account_name'] 		    = "Nom";
 $lang['account_ircnick'] 		= "Pseudo IRC";
 $lang['account_nick'] 			= "Nom d'utilisateur";
 $lang['account_newpasswd'] 		= "Nouveau mot de passe";
 $lang['account_desiredpasswd'] 	= "Mot de passe souhaité";
 $lang['account_desirednick'] 	= "Pseudo souhaité";
-$lang['account_passwdagain'] 	= "Confirmation de mot de passe";
+$lang['account_passwdagain'] 	= "Confirmation du mot de passe";
 $lang['account_location'] 		= "Localisation";
 $lang['account_sitelang'] 		= "Langue du site";
 $lang['account_chooseavatar'] 	= "Choisir un avatar";
