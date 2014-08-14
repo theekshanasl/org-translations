@@ -30,4 +30,6 @@ $lang['gi_sec3link2']                   = "View our translations page";
 $lang['gi_sec4para1']                   = "Our website is built using HTML, CSS, PHP, MySQL, and JavaScript. We're always looking for people experienced in those areas who would like to contribute and make it even better. Most of the design work is done by our design team, but we love design ideas and feedback from our web team as well.";
 
 $lang['gi_irclink']                     = "Join us on Internet Relay Chat (IRC)";
-
+$lang['gi_web_report_bug'] = "Report a website bug";
+$lang['gi_web_translations'] = "Help translate this website";
+$lang['gi_view_design_submission'] = "View our design submission how-to";
