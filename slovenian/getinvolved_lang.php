@@ -30,4 +30,6 @@ $lang['gi_sec3link2']                   = "Oglej si našo stran s prevodi";
 $lang['gi_sec4para1']                   = "Naša spletna stran je zgrajena z uporabo HTML, CSS, PHP, MySQL in JavaScript. Vedno iščemo osebe z izkušnjamo na teh področjih, ki bi želeli prispevati in jo narediti še boljšo. Večino oblikovalskega dela naša oblikovalska ekipa, z veseljem pa si tudi ogledamo oblikovne ideje in povratne informacije naše spletne ekipe.";
 
 $lang['gi_irclink']                     = "Pridruži se nam na klepetalnici IRC";
-
+$lang['gi_web_report_bug'] = "Prijavi napako spletne strani";
+$lang['gi_web_translations'] = "Pomagaj prevesti to spletno stran";
+$lang['gi_view_design_submission'] = "Oglejte si navodila za oddajo dizajnov";
