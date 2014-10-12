@@ -51,7 +51,7 @@ $lang['qa_mark_solution']               = "Marquer comme solution";
 
 
 //more general bits
-$lang['qa_ask']							= "Poser";
+$lang['qa_ask']							= "Demander";
 $lang['qa_answers']						= "Réponses";
 $lang['qa_answer']						= "Réponse";
 $lang['qa_question']					= "Question";

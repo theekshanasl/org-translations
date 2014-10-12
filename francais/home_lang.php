@@ -1,5 +1,5 @@
 <?php
-$lang['home_maintext']      = "Le dernier elementary OS est arrivé. Léger et somptueux. De toutes nouvelles applications. Une apparence raffinée. Au prix que vous souhaitez, ou gratuitement.";
+$lang['home_maintext']      = "La nouvelle version d'elementary OS est arrivée. Léger et somptueuse. De toutes nouvelles applications. Une apparence raffinée. Au prix que vous souhaitez, ou gratuitement.";
 $lang['home_download']      = "Télécharger";
 $lang['home_payment']       = "Paiement";
 $lang['home_amount']        = "Quantité";  // Amount of money
@@ -33,6 +33,6 @@ $lang['home_point8']        = "Sécurisé";
 $lang['home_expl8']         = "Luna est basé sur la fondation solide offerte par Linux (le même utilisé par la gendarmerie française, la Banque de Chine, et d'autres). Il ne souffre d'aucun virus connu, ce qui signifie que vous n'avez pas besoin d'installer un anti-virus qui ralentit inutilement votre système. Luna bénéficie de mises à jour de sécurité dès qu'un problème est détecté, donc il n'y a pas de délai pour avoir un système sécurisé.";
 $lang['home_point9']        = "100% Gratuit";
 $lang['home_expl9']         = "elementary OS est complètement gratuit et libre. Il n'y a aucune taxe d'utilisation ou de condition louche, pas de période d'essai ou de protections contre la copie. Vous pouvez installer Luna sur autant d'ordinateurs que vous le souhaitez et même le copier pour le transmettre à vos amis.";
-$lang['home_point10']       = "Plein d'Applications";
+$lang['home_point10']       = "De nombreuses Applications";
 $lang['home_expl10']        = "elementary OS comprend une logithèque remplie de milliers d'applications gratuites. Trouvez ce que vous cherchez rapidement et sans vous soucier des logiciels malveillants du web.";
 $lang['home_whatis']        = "Qu'est-ce qu'"; // Whole sentence reads "what is elementary OS?"
