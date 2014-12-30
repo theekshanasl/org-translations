@@ -27,7 +27,7 @@ $lang['gi_sec3para2']       = "También estamos trabajando en traducir el conten
 $lang['gi_sec3link1']       = "Más información acerca de Rosetta";
 $lang['gi_sec3link2']       = "Ver nuestra página de traducciones";
 
-$lang['gi_sec4para1']       = "Nuestra página está hecha mediante HTML, CSS, PHP, MySQL y JavaScript. Aceptamos gente con experiencia es estas áreas que quieran contribuir a mejorarla. La mayoría del diseño la hace el equipo de diseño, pero también nos encanta recibir ideas de nuestro equipo de desarrollo.";
+$lang['gi_sec4para1']       = "Nuestra página está hecha mediante HTML, CSS, PHP, MySQL y JavaScript. Aceptamos gente con experiencia en estas áreas que quieran contribuir a mejorarla. La mayoría del diseño la hace el equipo de diseño, pero también nos encanta recibir ideas de nuestro equipo de desarrollo.";
 
 $lang['gi_irclink']         = "Únase en Internet Relay Chat (IRC)";
 
