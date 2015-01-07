@@ -36,3 +36,4 @@ $lang['home_expl9']         = "elementary OS is completely free, both in terms o
 $lang['home_point10']       = "Ready for Apps";
 $lang['home_expl10']        = "elementary OS comes with a built-in app store, stocked with thousands of free apps. Quickly find what you’re looking for without worrying about malware from the web.";
 $lang['home_whatis']        = "What is"; // Whole sentence reads "what is elementary OS?"
+$lang['home_cc_paypal']     = "Credit card payments are available through PayPal";
