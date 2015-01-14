@@ -1,12 +1,12 @@
 <?php
-$lang['account_emailaddr'] 		= "Email Address";
-$lang['account_showemail'] 		= "Show my email in my profile";
-$lang['account_firstname'] 		= "First Name";
-$lang['account_lastname'] 		= "Last Name";
-$lang['account_name'] 		    = "Name";
-$lang['account_ircnick'] 		= "IRC Nickname";
+$lang['account_emailaddr'] 		= "ඊ ලිපිනය";
+$lang['account_showemail'] 		= "මගේ ඊ ලිපිනය පෙන්වන්න පැතිකඩෙහි";
+$lang['account_firstname'] 		= "නම";
+$lang['account_lastname'] 		= "වාසගම";
+$lang['account_name'] 		    = "නම";
+$lang['account_ircnick'] 		= "IRC පටබැදි නාමය";
 $lang['account_nick'] 			= "username";
-$lang['account_newpasswd'] 		= "New Password";
+$lang['account_newpasswd'] 		= "නව මුරපදය";
 $lang['account_desiredpasswd'] 	= "Desired Password";
 $lang['account_desirednick'] 	= "Desired Username";
 $lang['account_passwdagain'] 	= "Confirm Password";
