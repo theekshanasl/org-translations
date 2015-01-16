@@ -23,8 +23,8 @@ $lang['is_natural']			= "The %s field must contain only positive numbers.";
 $lang['is_natural_no_zero']	= "The %s field must contain a number greater than zero.";
 $lang['decimal']			= "The %s field must contain a decimal number.";
 $lang['less_than']			= "The %s field must contain a number less than %s."; 		//Second %s is a number
-$lang['greater_than']		= "The %s field must contain a number greater than %s."; 	//Second %s is a number
-$lang['language_validate']	= "Alternate translations not available.";
+$lang['greater_than']		= "මෙම %s field must contain a number greater than %s."; 	//Second %s is a number
+$lang['language_validate']	= "විකල්ප පර්වර්තන නොමැත.";
 $lang['location_validate']	= "The location field may only contain alphabetic characters, commas, and full stops.";
 $lang['alpha_i18n']			= "The %s field may only contain alphabetic characters, including internationalization characters.";
 /* End of file form_validation_lang.php */
